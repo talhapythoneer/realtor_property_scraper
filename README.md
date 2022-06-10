@@ -1,5 +1,5 @@
 # realtor_property_scraper
-This script is built to scrape property data from [realtor](https://www.realtor.com/realestateandhomes-search/). We have used ScrapingBee to render JS on this website. It scrapes listings for targetted postal codes from targetCodes.txt file.
+This script is built to scrape property data from [realtor](https://www.realtor.com/realestateandhomes-search/) for property listings. We have used ScrapingBee to render JS on this website. It scrapes listings for targetted postal codes from targetCodes.txt file.
 
 # Setup:
 This script is written in python using following libraries:
