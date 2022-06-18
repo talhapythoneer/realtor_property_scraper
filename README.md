@@ -13,5 +13,6 @@ This script is written in python using following libraries:
 
 Note: You would need to put your API for ScrapingBee on line no. 8.
 
-Thanks & Regards
-TalhaPythoneer
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
